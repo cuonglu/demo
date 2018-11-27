@@ -10,9 +10,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class DemoApplicationTests {
 
-	@Test
-	public void contextLoads() {
-		Assert.fail("Test fail");
-	}
+    @Test
+    public void contextLoads() {
+		Assert.fail("Test fail 1");
+    }
 
 }
